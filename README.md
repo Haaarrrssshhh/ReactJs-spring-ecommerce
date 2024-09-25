@@ -1,6 +1,6 @@
 # spring-boot-react-ecommerce-app
 eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
-
+<!-- 
 **DEMO**
 - Deployed to Heroku Cloud:
 
@@ -8,7 +8,7 @@ eCommerce application based on the microservices architecture built using Spring
 
   **Note:** It is running on a free dyno, so the services go to sleep if not in use.
        For the first time, it may take some time to respond.
- 
+  -->
 **FEATURES**
 
 - Google OAuth 2.0 support for quick login.
@@ -49,8 +49,8 @@ eCommerce application based on the microservices architecture built using Spring
 - **Search Suggestion Service:** Provide default search suggestions and provides suggestions based on a prefix using Hashmap. The service creates the Hashmap based on available data from the database with various combinations and populates the map.
 
 **Steps for executing the application using docker-compose:**
-
-Installation Video: https://youtu.be/nPKYbdKPd0E
+<!-- 
+Installation Video: https://youtu.be/nPKYbdKPd0E -->
 
 1. Clone/Download the repository.
 
